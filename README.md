@@ -12,7 +12,7 @@ Este é um simples formulário desenvolvido em PHP que permite aos usuários ins
 <ol>
 <li>Clone este repositório para sua máquina local:</li>
  
-<h3>git clone https://github.com/seuusuario/seu-repositorio.git</h3>
+<h3>git clone https://github.com/muriloLuix/Formulario-PHP.git</h3>
 
 <li>Certifique-se de ter um ambiente PHP configurado em sua máquina.</li>
 <li>Navegue até o diretório do projeto e abra o arquivo index.php em seu navegador.</li>
